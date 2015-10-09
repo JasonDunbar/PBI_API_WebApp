@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PBI_API_WebApp", "PBI_API_WebApp\PBI_API_WebApp.csproj", "{91E2C2AD-9767-4269-9D84-8E4D0335A4C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91E2C2AD-9767-4269-9D84-8E4D0335A4C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E2C2AD-9767-4269-9D84-8E4D0335A4C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E2C2AD-9767-4269-9D84-8E4D0335A4C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E2C2AD-9767-4269-9D84-8E4D0335A4C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{39DEB71F-4312-4382-B0A4-0F0BB5B5C5FE} = {20CC882E-DCB6-4522-A345-42ADFA68E09F}
+		{18718891-2A62-4778-A01F-6DD114FFD25B} = {20CC882E-DCB6-4522-A345-42ADFA68E09F}
+	EndGlobalSection
+EndGlobal

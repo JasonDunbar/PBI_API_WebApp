@@ -1,0 +1,41 @@
+﻿body {
+    font-family: 'Segoe UI'
+}
+
+.titleBold {
+    font-weight: bold;
+}
+.spacing {
+    margin-bottom: 10px;
+}
+.container {
+    display: block;
+    width: 800px;
+}
+
+.leftColumn {
+    float: left;
+    width: 200px;
+    padding: 0px;
+}
+
+.rightColumn {
+    float: right;
+    width: 600px;
+    padding: 0px;
+    overflow-wrap: break-word;
+}
+
+.hiddenElement {
+    display: none;
+}
+
+a:hover + .rightColumn {
+    display: block;
+}
+
+#PowerBIFrame {
+    height: 400px;
+    width: 400px;
+    border: 5px dashed gray;
+}
