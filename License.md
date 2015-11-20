@@ -1,3 +1,5 @@
+The MIT License (MIT)
+
 Copyright (c) 2015 Cambridge Technology Partners  http://www.ctp.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
