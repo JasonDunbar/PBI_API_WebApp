@@ -24,7 +24,7 @@
             <!-- Intro and Properties -->
             
             <h1>The Power BI API Sandbox</h1>
-            <p>If you're seeing this, then you're authenticated against the CTP Power BI Service (linked to the ctp2.onmicrosoft.com tenant)</p>
+            <p>If you're seeing this, then you're authenticated against your Tenant</p>
             <div class="container">
                 <div class="leftColumn titleBold">The curent user: </div>
                 <div class="rightColumn"><asp:Label ID="UserLabel" runat="server" /></div>
